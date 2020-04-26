@@ -1,6 +1,9 @@
 # Covid-19
 Tracing and modeling covid-19 with the aim to curb its spread.
 
+---------------
+More information can also be accessed at https://github.com/abari212/covid-19
+---------------
 Slowing the virus spread is as important as stopping it. The aim of this project is to trace and model the spread while preserving privacy of both individuals and organisations.
 
 Tracing and modeling can be as effective as physical distancing to curb the COVID-19 spread, based on privacy-preserving approaches. One of such approaches has been proposed by experts on privacy matters, in Europe. They called it "Decentralized Privacy-Preserving Proximity Tracing (DP-PPT)" to help curb the spread with confidentiality. https://lnkd.in/fy3-MB3 / https://lnkd.in/f9etcRp
