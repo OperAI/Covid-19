@@ -1,8 +1,10 @@
 # Covid-19
 Tracing and modeling covid-19 with the aim to curb its spread.
 
+Under the current difficult circumstances of corona virus (COVID-19), our first thought is the safety of all.  ​Tracing outbreaks could be another effective measure to curb the spread of covid-19, in addition to physical distancing. These are some illustrations that we have been working, for which the scripts are available at OperAI GitHub. The same scripts can be used, by any one, at a much more granular scale, such as a city with the aim for a near real-time tracing.
+
 ---------------
-More information can also be accessed at https://github.com/abari212/covid-19
+More information on the codes and spread of covid-19 can also be accessed at https://github.com/abari212/covid-19
 ---------------
 Slowing the virus spread is as important as stopping it. The aim of this project is to trace and model the spread while preserving privacy of both individuals and organisations.
 
