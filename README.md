@@ -12,7 +12,7 @@ Tracing and modeling can be as effective as physical distancing to curb the COVI
 
 The approach we have used to trace and model the spread is also a privacy-preserving approach as non-contact based approach. The scripts in preparation are made available at https://lnkd.in/fvF3_fm. They will be constantly updated along with the data.
 
-Such privacy-preserving approaches and scripts can be used at a finer scale with granular data (city/province), to trace and model the spread locally and possibly hourly. Privacy-preserving approaches include individual privacy as well as and organizational privacy
+Such privacy-preserving approaches and scripts can be used at a finer scale with granular data (city/province), to trace and model the spread locally and possibly hourly. Privacy-preserving approaches include individual privacy as well as organization privacy.
 
 Models can help to catch up and curb the spread and avert surges, if any. https://lnkd.in/ehfyuUZ. Earlier, models have shown that by acting just a week earlier, 67% of infections would have been avoided. That number would have reached 95% of reduced infections, with the same protective measures, if they had been applied three weeks earlier. https://lnkd.in/evKXJ2G. 
 
