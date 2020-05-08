@@ -1,5 +1,5 @@
 # Covid-19
-Tracing (non-contact based tracing) and modeling covid-19 with the aim to curb its spread.
+Tracing (as a non-contact based approach) and modeling covid-19 with the aim to curb its spread.
 
 Under the current difficult circumstances of corona virus (COVID-19), our first thought is the safety of all.  ​Tracing outbreaks could be another effective measure to curb the spread of covid-19, in addition to physical distancing. These are some illustrations that we have been working, for which the scripts are available at OperAI GitHub. The same scripts can be used, by any one, at a much more granular scale, such as a city with the aim for a near real-time tracing.
 
