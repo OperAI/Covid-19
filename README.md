@@ -1,7 +1,11 @@
 # Covid-19
+
+
+Under the current difficult circumstances of corona virus (COVID-19), our first thought is the safety of all! To help fight Covid-19, OperAI is has pivoted  to develop hardware (IoTs) and software applications with privacy-preserving approaches.
+
 Predicting likely hotspots earlier can help to take preventive measures to reduce the number of infections. ​Predictive models have shown that by acting just a week earlier, 65% of infections would have been avoided. If the same protective measures had been applied three weeks earlier that number would have reached 95% of reduced infections.
 
-Under the current difficult circumstances of corona virus (COVID-19), our first thought is the safety of all.  Predicting liklely outbreaks could be another effective measure to curb the spread of covid-19, in addition to physical distancing. These are some illustrations that we have been working, for which the scripts are available at OperAI GitHub. The same scripts can be used, by any one, at a much more granular scale, such as a city with the aim for a near real-time tracing.
+ Predicting liklely outbreaks could be another effective measure to curb the spread of covid-19, in addition to physical distancing. These are some illustrations that we have been working, for which the scripts are available at OperAI GitHub. The same scripts can be used, by any one, at a much more granular scale, such as a city with the aim for a near real-time tracing.
 
 ---------------
 More information on the codes and spread of covid-19 can also be accessed at https://github.com/abari212/covid-19
